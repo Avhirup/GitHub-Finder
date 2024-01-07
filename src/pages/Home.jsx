@@ -1,5 +1,5 @@
 import UserResults from '../components/user/UserResults';
-import UserSearch from '../components/user/userSearch';
+import UserSearch from '../components/user/UserSearch';
 
 export default function Home() {
   return (
